@@ -1,0 +1,14 @@
+C:\Users\EmiSA\source\repos\Sudoku\Sudoku\bin\Release\netcoreapp3.1\Sudoku.exe
+C:\Users\EmiSA\source\repos\Sudoku\Sudoku\bin\Release\netcoreapp3.1\Sudoku.deps.json
+C:\Users\EmiSA\source\repos\Sudoku\Sudoku\bin\Release\netcoreapp3.1\Sudoku.runtimeconfig.json
+C:\Users\EmiSA\source\repos\Sudoku\Sudoku\bin\Release\netcoreapp3.1\Sudoku.runtimeconfig.dev.json
+C:\Users\EmiSA\source\repos\Sudoku\Sudoku\bin\Release\netcoreapp3.1\Sudoku.dll
+C:\Users\EmiSA\source\repos\Sudoku\Sudoku\bin\Release\netcoreapp3.1\Sudoku.pdb
+C:\Users\EmiSA\source\repos\Sudoku\Sudoku\obj\Release\netcoreapp3.1\Sudoku.csproj.AssemblyReference.cache
+C:\Users\EmiSA\source\repos\Sudoku\Sudoku\obj\Release\netcoreapp3.1\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmiSA\source\repos\Sudoku\Sudoku\obj\Release\netcoreapp3.1\Sudoku.AssemblyInfoInputs.cache
+C:\Users\EmiSA\source\repos\Sudoku\Sudoku\obj\Release\netcoreapp3.1\Sudoku.AssemblyInfo.cs
+C:\Users\EmiSA\source\repos\Sudoku\Sudoku\obj\Release\netcoreapp3.1\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\EmiSA\source\repos\Sudoku\Sudoku\obj\Release\netcoreapp3.1\Sudoku.dll
+C:\Users\EmiSA\source\repos\Sudoku\Sudoku\obj\Release\netcoreapp3.1\Sudoku.pdb
+C:\Users\EmiSA\source\repos\Sudoku\Sudoku\obj\Release\netcoreapp3.1\Sudoku.genruntimeconfig.cache
